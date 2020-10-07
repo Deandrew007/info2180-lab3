@@ -40,5 +40,9 @@ function createBoard(squares, state){
     
     } 
     }
+
+   function winnerWinnerChickenDinner(){
+        
+    }
 }
 
